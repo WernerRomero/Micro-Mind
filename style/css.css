@@ -3,6 +3,7 @@ body
 	background: #9A9A9A;
 	margin: 0;
 }
+
 /*Animacion*/
 #animacion {
 	position: relative;
@@ -152,22 +153,18 @@ li
 /*Object*/
 .space
 {
-	height:915px;
-	width: 980px;
+	height: 100%;
+	width: 75%;
 	background: red;
 	margin: 0px auto; 
+	padding: 1%;
 }
-/*Zona de contenido Section*/
-#sec
-{
-	width: 720px;
-	height:915px;
-}
+
 footer
 {
 	text-align: center;
 	background: #666464;
-	width: 980px;
+	width: 75%;
 	margin: 0px auto;
 	margin-top: -20px;
 	-webkit-border-radius: 8px;
